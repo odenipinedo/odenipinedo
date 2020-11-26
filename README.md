@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Check out my [R portfolio](https://pinedo.org/R)
-- I’m currently learning [machine learning with Python](https://github.com/odenipinedo/Python)
+- I’m currently learning machine learning using [Python](https://github.com/odenipinedo/Python)
 
 <!--- 
 
