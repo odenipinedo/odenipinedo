@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [mastering R](https://pinedo.org/R)
-- 🌱 I’m currently learning [machine learning in Python](https://github.com/odenipinedo/Python)
+- 🌱 I’m currently learning [machine learning with Python](https://github.com/odenipinedo/Python)
 - 📫 [Contact/Website](https://pinedo.org)
 
 <!--- 
