@@ -2,7 +2,6 @@
 
 - Check out my [R portfolio](https://pinedo.org/R)
 - I’m currently learning [machine learning with Python](https://github.com/odenipinedo/Python)
-- Contact me via my [website](https://pinedo.org)
 
 <!--- 
 
