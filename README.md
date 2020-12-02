@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Check out my [R project page](https://pinedo.org/R) or other [portfolio](https://pinedo.org/portfolio) of work
+- Check out my [R project page](https://pinedo.org/R) and other [portfolio](https://pinedo.org/portfolio) of work
 - I’m currently learning machine learning using [Python](https://pinedo.org/Python)
 
 <!--- 
