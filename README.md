@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/odenipinedo/community.svg)](https://gitter.im/odenipinedo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-- I’m currently skilling up from intermediate to advanced in data science and machine learning using [Python](https://pinedo.org/Python) and [R](https://pinedo.org/R)
+- I’m currently skilling up from intermediate to advanced data science and machine learning using [Python](https://pinedo.org/Python) and [R](https://pinedo.org/R)
 - Check out my other [miscellaneous projects](https://pinedo.org/projects)
 
 <!--- 
