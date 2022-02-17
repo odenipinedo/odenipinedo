@@ -1,10 +1,10 @@
 [![Gitter](https://badges.gitter.im/odenipinedo/community.svg)](https://gitter.im/odenipinedo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 - Check out my 
-     · [portfolio](https://pinedo.org/projects) 
-     · projects with [Python](https://pinedo.org/Python)
-     · projects with [R](https://pinedo.org/R)
-     · linux [stuff]()
+     - [portfolio](https://pinedo.org/projects) 
+     - projects with [Python](https://pinedo.org/Python)
+     - projects with [R](https://pinedo.org/R)
+     - linux [stuff](https://github.com/odenipinedo/linux)
      
 
 <!--- 
