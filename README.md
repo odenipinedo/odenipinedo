@@ -3,9 +3,9 @@
 - Check out my 
      - [website](https://pinedo.org) 
      - [portfolio](https://pinedo.org/projects) 
-     - projects with [Python](https://pinedo.org/Python)
-     - projects with [R](https://pinedo.org/R)
-     - linux [stuff](https://github.com/odenipinedo/linux)
+     - [Python](https://pinedo.org/Python) projects
+     - [R](https://pinedo.org/R) projects
+     - [linux](https://github.com/odenipinedo/linux) things
      
 
 <!--- 
