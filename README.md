@@ -1,6 +1,7 @@
 [![Gitter](https://badges.gitter.im/odenipinedo/community.svg)](https://gitter.im/odenipinedo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 - Check out my 
+     - [website](https://pinedo.org) 
      - [portfolio](https://pinedo.org/projects) 
      - projects with [Python](https://pinedo.org/Python)
      - projects with [R](https://pinedo.org/R)
