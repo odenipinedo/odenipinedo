@@ -6,6 +6,7 @@
      - [Python](https://pinedo.org/Python) projects
      - [R](https://pinedo.org/R) projects
      - [linux](https://github.com/odenipinedo/linux) things
+     - [cybersecurity](https://github.com/odenipinedo/cyber) stuff
      
 
 <!--- 
