@@ -2,7 +2,7 @@
 
 - Check out my 
      - [website](https://pinedo.org) 
-     - [portfolio](https://pinedo.org/projects) 
+     - [work](https://pinedo.org/projects) samples
      - [Python](https://pinedo.org/Python) projects
      - [R](https://pinedo.org/R) projects
      - [linux](https://github.com/odenipinedo/linux) things
