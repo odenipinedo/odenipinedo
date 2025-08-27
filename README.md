@@ -6,9 +6,7 @@
      - [Python](https://pine.do/Python) projects
      - [R](https://pine.do/R) projects
      - [linux](https://github.com/odenipinedo/linux) things
-     - [cybersecurity](https://github.com/odenipinedo/cyber) stuff
      
-
 <!--- 
 
 Here are some ideas to get you started:
