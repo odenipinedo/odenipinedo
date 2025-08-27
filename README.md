@@ -1,5 +1,3 @@
-[![Gitter](https://badges.gitter.im/odenipinedo/community.svg)](https://gitter.im/odenipinedo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 - Check out my 
      - [website](https://pine.do) 
      - [work](https://pine.do/portfolio) samples
